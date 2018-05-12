@@ -1,0 +1,37 @@
+_repo: Fifty-Famous-Stories-Retold_18442
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Baldwin, James
+    birthdate: 1841
+    deathdate: 1925
+    gutenberg_agent_id: '1982'
+    url: http://www.gutenberg.org/2009/agents/1982
+    wikipedia: http://en.wikipedia.org/wiki/James_Baldwin_(editor_and_author)
+description: Cover; Title Page; Copyright Page; Table of Contents; King Alfred and
+  the Cakes; King Alfred And The Beggar; King Canute on the Seashore; The Sons of
+  William the Conqueror; The White Ship; King John And The Abbot; A Story of Robin
+  Hood; Bruce And The Spider; The Black Douglas; Three Men of Gotham; Other Wise Men
+  of Gotham; The Miller of the Dee; Sir Philip Sidney; The Ungrateful Soldier; Sir
+  Humphrey Gilbert; Sir Walter Raleigh; Pocahontas; George Washington And His Hatchet;
+  Grace Darling; The Story of William Tell; Arnold Winkelried; The Bell of Atri; How
+  Napoleon Crossed the Alps.
+gutenberg_issued: '2006-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18442'
+  lccn: '04017302'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Readers'
+- !lcsh 'Folklore'
+- !lcsh 'History'
+title: Fifty Famous Stories Retold
+url: http://www.gutenberg.org/ebooks/18442
